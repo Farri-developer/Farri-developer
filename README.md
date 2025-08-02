@@ -69,9 +69,8 @@
 
 ## 📬 Contact Me
 
-- 📧 Email: **farhanayub272@gmail.com**
+- 📧 Email: **fayub511@gmail.com**
 - 📷 Instagram: [@farhan__ayub](https://instagram.com/farhan__ayub)
-- 🧠 Portfolio Insta: [@farri_x](https://instagram.com/farri_x)
 - 🛍️ Business Page: [@farifits](https://instagram.com/farifits)
 - 💼 LinkedIn: [Farhan Ayub](https://www.linkedin.com/in/farhan-ayub-24774a323/)
 
