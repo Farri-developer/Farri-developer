@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farhan Ayub</h1>
-<h3 align="center">Full Stack Developer | React Native & .NET Developer | AI/ML Enthusiast | Computer Science Student | Filmmaker</h3>
+<h3 align="center">Full Stack Developer | React Native & .NET Developer | AI/ML Enthusiast | Computer Science Student </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Farri-developer&label=Profile%20views&color=0e75b6&style=flat" alt="Farri-developer" />
@@ -30,6 +30,7 @@
 
 ### 💻 Backend & Database:
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
