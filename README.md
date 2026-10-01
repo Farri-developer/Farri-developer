@@ -10,11 +10,11 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+AI-powered+solutions+%F0%9F%A4%96;Developing+full-stack+applications+%F0%9F%92%BB;Exploring+EEG+%26+Multimodal+AI+%F0%9F%A7%A0;Turning+ideas+into+real-world+products+%F0%9F%9A%80" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&duration=2800&color=0E75B6&center=true&vCenter=true&width=750&lines=Building+AI-powered+solutions+%F0%9F%A4%96;Developing+full-stack+applications+%F0%9F%92%BB;Exploring+EEG+%26+Multimodal+AI+%F0%9F%A7%A0;Engineering+data-driven+systems+%F0%9F%93%8A;Turning+ideas+into+real-world+products+%F0%9F%9A%80" alt="Typing Animation"/>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&animation=fadeIn&fontSize=0" width="100%"/>
 
 </div>
 
@@ -87,6 +87,12 @@ I'm a **Computer Science student and developer** interested in building practica
 ---
 
 ## 🚀 Featured Projects
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=0E75B6&center=true&vCenter=true&width=600&lines=Featured+Work+%E2%9A%A1;Research+%7C+ERP+%7C+Mobile+%7C+Web" alt="Featured Projects Animation"/>
+
+</div>
 
 ### 🧠 Multimodal Stress Recognition
 
@@ -162,6 +168,16 @@ UI / UX                  ███████████████░░░�
 
 ---
 
+## ⚡ Developer Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Farri-developer&bg_color=0d1117&color=58a6ff&line=0e75b6&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
 ## 🛠️ Tools & Creative Software
 
 <p>
@@ -192,6 +208,16 @@ UI / UX                  ███████████████░░░�
 
 ---
 
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+
+</div>
+
+---
+
 ## 🏆 Achievements & Highlights
 
 - 🎓 Computer Science student with a focus on software development and AI/ML
@@ -216,6 +242,16 @@ learning = {
     "Design": ["UI/UX", "Product Design"]
 }
 ```
+
+---
+
+## 🎯 Coding Mindset
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1300&color=58A6FF&center=true&vCenter=true&width=650&lines=Think+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve;Code+with+purpose+%F0%9F%92%BB;Learn+something+new+every+day+%F0%9F%A7%A0" alt="Coding Mindset Animation"/>
+
+</div>
 
 ---
 
@@ -257,7 +293,7 @@ I believe great software comes from combining **technical knowledge, curiosity, 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 ### ⭐ Thanks for visiting my profile!
 
