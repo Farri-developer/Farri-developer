@@ -1,91 +1,266 @@
-<h1 align="center">Hi 👋, I'm Farhan Ayub</h1>
-<h3 align="center">AI/ML Enthusiast | Full Stack Developer | Computer Science Student</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Farri-developer&label=Profile%20views&color=0e75b6&style=flat" alt="Farri-developer" />
-</p>
+# 👋 Hi, I'm **Farhan Ayub**
+
+### `AI/ML Enthusiast` • `Full Stack Developer` • `Computer Science Student`
+
+<a href="https://github.com/Farri-developer">
+  <img src="https://komarev.com/ghpvc/?username=Farri-developer&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+AI-powered+solutions+%F0%9F%A4%96;Developing+full-stack+applications+%F0%9F%92%BB;Exploring+EEG+%26+Multimodal+AI+%F0%9F%A7%A0;Turning+ideas+into+real-world+products+%F0%9F%9A%80" alt="Typing Animation"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header&text=&fontSize=0" width="100%"/>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Final-year **Computer Science Student @ BIIT**  
-- 🤖 Focused on **AI/ML Research**: Multimodal Emotion Recognition using **EEG signals** for Stress Analysis in C/C++ Coding  
-- 💻 Skilled in **Full Stack Development**: Flutter, .NET Core, C#, SQL Server, Python  
-- 🖌️ Experienced in **UI/UX Design with Figma** and frontend prototyping  
-- 🎥 Creative background as a **Video Editor & Filmmaker**, with achievements in university-level competitions  
-- 📫 Reach me at: **fayub511@gmail.com**
+
+I'm a **Computer Science student and developer** interested in building practical software products that combine **AI, software engineering, data, and creative design**.
+
+- 🎓 Final-year **Computer Science Student @ BIIT**
+- 🤖 Researching **Multimodal Emotion Recognition** and **EEG-based Stress Analysis** during C/C++ coding
+- 💻 Building full-stack applications using **Python, Flask, C#, .NET Core, Flutter, React Native, and SQL Server**
+- 🧠 Working with **Machine Learning, Neural Networks, EEG signal processing, and data analysis**
+- 🎨 Experienced with **Figma, Photoshop, Premiere Pro, and Canva**
+- 🚀 Interested in turning academic ideas into **real-world applications**
+- 🎥 Background in **video editing and filmmaking**
+- 📫 **Email:** `fayub511@gmail.com`
+
+> **I build, experiment, learn, and turn ideas into working software.**
 
 ---
 
 ## 🧰 Tech Stack
 
-### 🌐 Frontend & Mobile:
-![React Native](https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🌐 Frontend & Mobile
 
-### ⚙️ Backend & Database:
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
-### 🤖 AI, ML & Neural Networks:
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### ⚙️ Backend & Database
 
-- EEGNet & STEAM Models for **Stress Recognition in Coding Environments**  
-- Neural Signal Processing & Cognitive Computing
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
 
-### 🛠 Tools & Software:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+### 🤖 AI / ML / Data
+
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
+
+**Areas of interest:**
+
+- 🧠 EEG Signal Processing
+- 🤖 Multimodal AI
+- 📊 Machine Learning & Deep Learning
+- 🧩 Neural Networks
+- 🧠 Cognitive Computing
+- 💻 Stress Recognition in Coding Environments
+- 📈 Data Analysis & Visualization
 
 ---
 
 ## 🚀 Featured Projects
-- 🤖 **EEG-based Stress Detection:** AI models (EEGNet & STEAM) for recognizing stress during C++ coding  
-- 📲 **Cricket Scoring App:** Flutter-based mobile app integrated with REST APIs  
-- 🌐 **E-commerce Platform:** Shopify store with custom themes & SEO for **Farifits**  
-- 🧑‍💻 **Custom Scripting Language Interpreter:** Developed in C# with Regex & Symbol Table  
-- 💻 **Full-Stack Apps:** Built with .NET Core, SQL Server, and Flutter for academic and personal projects  
+
+### 🧠 Multimodal Stress Recognition
+
+AI/ML research project focused on recognizing stress during **C/C++ programming tasks** using physiological and behavioral signals.
+
+**Focus:** EEG • PPG • Blood Pressure • Machine Learning • Deep Learning • NASA-TLX
+
+> Exploring how physiological signals can be combined to understand cognitive stress during software development.
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farri-developer&show_icons=true&theme=github_dark" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Farri-developer&theme=github-dark-blue" alt="streak" />
+### 💧 AL-FA PURE MINERAL WATER — Admin ERP
+
+A complete **Flask + Microsoft SQL Server ERP system** for managing bottled-water business operations.
+
+**Features include:**
+
+- 👥 Customer management
+- 🍾 Bottle management & movement tracking
+- 💰 Full, partial & advance payments
+- 🧾 Payment allocation
+- 📄 PDF billing
+- 💸 Expense management
+- 🧪 Water-quality records
+- 🛢️ Tank & filter checks
+- 📊 Reports & customer statements
+- 📈 Profit & Loss
+
+**Stack:** Python • Flask • SQL Server • SQLAlchemy • pyodbc • Bootstrap • ReportLab
+
+---
+
+### 📱 Cricket Scoring Application
+
+A mobile cricket scoring application with API integration designed to manage and display match-scoring information.
+
+**Stack:** Flutter • REST APIs • Backend Integration
+
+---
+
+### 🛍️ Farifits — E-commerce
+
+Worked on an e-commerce platform with custom themes, frontend customization, SEO, and digital-business operations.
+
+**Stack:** Shopify • Custom Themes • SEO • Digital Commerce
+
+---
+
+### 💻 Custom Scripting Language Interpreter
+
+A custom scripting-language interpreter developed in **C#**, including parsing-related functionality, regular expressions, and symbol-table concepts.
+
+**Stack:** C# • Regex • Symbol Table • Compiler Concepts
+
+---
+
+## 🧪 What I'm Currently Exploring
+
+```text
+AI / ML                  ███████████████████░░
+Full-Stack Development   ██████████████████░░░
+Signal Processing        ████████████████░░░░░
+Backend Engineering      █████████████████░░░░
+UI / UX                  ███████████████░░░░░░
+```
+
+- 🔬 Multimodal physiological-signal analysis
+- 🧠 EEG-based machine learning
+- 🌐 Scalable backend applications
+- 🗄️ SQL Server database systems
+- 📱 Cross-platform mobile development
+- 🎨 Product UI/UX and visual design
+
+---
+
+## 🛠️ Tools & Creative Software
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
 </p>
 
 ---
 
-## 🏆 Achievements
-- 📚 Certified in **React JS**, **Ethical Hacking**, and **AI/ML**  
-- 🤖 Developed **EEGNet & STEAM-based Stress Recognition Models**  
-- 📈 Scaled and Managed **Shopify Business – Farifits**  
-- 🎥 Award-winning **Video Editor & Filmmaker** at university-level competitions  
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Farri-developer&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub Stats"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farri-developer&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Farri-developer&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+
+</div>
 
 ---
 
-## 📬 Contact Me
-- 📧 Email: **fayub511@gmail.com**  
-- 💼 LinkedIn: [Farhan Ayub](https://www.linkedin.com/in/farhan-ayub-24774a323/)  
-- 📷 Instagram: [@farhan__ayub](https://instagram.com/farhan__ayub)  
-- 🛍️ Business Page: [@farifits](https://instagram.com/farifits)
+## 🏆 Achievements & Highlights
+
+- 🎓 Computer Science student with a focus on software development and AI/ML
+- 🧠 Developed **EEGNet & STEAM-based stress recognition models**
+- 🔬 Working on multimodal physiological-signal research
+- 💻 Developed full-stack applications using multiple technology stacks
+- 💧 Built a complete business ERP for AL-FA PURE MINERAL WATER
+- 📈 Worked with Shopify e-commerce and digital business operations
+- 🎥 Experience in video editing and filmmaking
+- 📚 Certifications in React JS, Ethical Hacking, and AI/ML
 
 ---
 
-> “I believe in building impactful solutions by combining technology, creativity, and continuous learning.”
+## 📚 Currently Learning
+
+```python
+learning = {
+    "AI": ["Multimodal Learning", "Deep Learning", "Signal Processing"],
+    "Backend": ["Flask", "REST APIs", "Database Architecture"],
+    "Database": ["SQL Server", "MySQL", "Advanced SQL"],
+    "Development": ["Full-Stack Architecture", "Mobile Development"],
+    "Design": ["UI/UX", "Product Design"]
+}
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:fayub511@gmail.com">
+  <img src="https://img.shields.io/badge/Email-fayub511%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/farhan-ayub-24774a323/">
+  <img src="https://img.shields.io/badge/LinkedIn-Farhan_Ayub-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/farhan__ayub">
+  <img src="https://img.shields.io/badge/Instagram-%40farhan__ayub-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/farifits">
+  <img src="https://img.shields.io/badge/Farifits-Business-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 💡 My Development Philosophy
+
+<div align="center">
+
+### **Build → Learn → Experiment → Improve → Repeat**
+
+I believe great software comes from combining **technical knowledge, curiosity, creativity, and continuous improvement**.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's build something meaningful. 🚀**
+
+</div>
